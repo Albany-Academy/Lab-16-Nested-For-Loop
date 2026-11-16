@@ -1,4 +1,4 @@
-# Lab17  Nested For Loops
+# Lab 16  Nested For Loops
 
 Write a program that uses nested for loops and the char type.
 
